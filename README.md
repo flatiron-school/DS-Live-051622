@@ -22,8 +22,8 @@ git remote add upstream https://github.com/flatiron-school/DS-Live-051622.git
 
 4. You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
 ```
-git add [filename]
-git commit -m 'message here'
+git add [https://media.giphy.com/media/9fum7ZNMeZIaI/giphy.gif]
+git commit -m 'added alexs feeling excited '
 git push
 ```
 
